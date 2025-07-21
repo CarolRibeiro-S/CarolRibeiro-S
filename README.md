@@ -1,5 +1,7 @@
 <h1 align="center">Bem-vindo(a) ao perfil da Carol Ribeiro 😁</h1>
 
+<p align="center"><strong>Desenvolvedora Full Stack | HTML • CSS • JavaScript • React • Flutter</strong></p>
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats-carol.vercel.app/api?username=CarolRibeiro-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-carol.vercel.app/api/top-langs/?username=CarolRibeiro-S&layout=compact&langs_count=6&theme=tokyonight"/>
