@@ -1,19 +1,21 @@
-## Bem-vindo(a) ao perfil da Carol Ribeiro 😁
+<h1 align="center">Bem-vindo(a) ao perfil da Carol Ribeiro 😁</h1>
 
-<div align="center">
-  <a href="https://github.com/CarolRibeiro-S">
-    <img height="180em" src="https://github-readme-stats-carol.vercel.app/api?username=CarolRibeiro-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-carol.vercel.app/api/top-langs/?username=CarolRibeiro-S&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolRibeiro-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolRibeiro-S&layout=compact&langs_count=6&theme=tokyonight"/>
+</p>
 
-<div style="display: inline_block" align="center"><br>
+---
+
+### 💻 Tecnologias que estou estudando
+
+<p align="center">
   <img align="center" alt="JavaScript logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5 logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3 logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+</p>
 
-<br>
+---
 
 ### ✨ Sobre mim
 
@@ -23,7 +25,7 @@
 
 ---
 
-### 📲 Me acompanhe nas redes para mais conteúdo sobre programação!
+### 📲 Me siga nas redes para mais conteúdo sobre programação!
 
 <p align="center">
   <a href="https://www.youtube.com/@carolribeirocodara" target="_blank">
