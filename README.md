@@ -1,8 +1,8 @@
 <h1 align="center">Bem-vindo(a) ao perfil da Carol Ribeiro 😁</h1>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-jade-ten-72.vercel.app/api?username=CarolRibeiro-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-jade-ten-72.vercel.app/api/top-langs/?username=CarolRibeiro-S&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-carol.vercel.app/api?username=CarolRibeiro-S&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-carol.vercel.app/api/top-langs/?username=CarolRibeiro-S&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 
 ---
@@ -44,4 +44,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </p>
-
