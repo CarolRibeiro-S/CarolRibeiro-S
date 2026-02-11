@@ -5,11 +5,6 @@
 
 <h1 align="center">Welcome to Carol Ribeiro's profile 👩‍💻</h1>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarolRibeiro-S&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolRibeiro-S&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🚀 Technologies
