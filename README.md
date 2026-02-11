@@ -51,7 +51,7 @@ I am continuously evolving, deepening my knowledge in **software architecture, f
   <a href="https://www.youtube.com/@carolribeirocodara" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
-  <a href="https://instagram.com/carol.ribeiro.ss" target="_blank">
+  <a href="https://instagram.com/carolribeirodev" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   <a href="https://discord.gg/MxXnAWnw" target="_blank">
