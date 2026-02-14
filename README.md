@@ -11,6 +11,7 @@
 
 <p align="center">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -34,7 +35,7 @@ Software developer focused on **web and mobile applications**, working on the co
 
 I have hands-on experience developing **real-world projects**, such as **inventory control, pricing, recipe management, and scheduling systems**, structured with organized architecture, persistent data storage, and production-ready interfaces.
 
-My technical stack includes **Java, Spring Boot, JavaScript/TypeScript, React, Node.js, PHP, HTML, and CSS**, along with relational databases like **MySQL and SQLite**, applying **clean architecture principles, Git/GitHub version control, MVC patterns, and RESTful APIs**.
+My technical stack includes **Java, Kotlin, Spring Boot, JavaScript/TypeScript, React, Node.js, PHP, HTML, and CSS**, along with relational databases like **MySQL and SQLite**, applying **clean architecture principles, Git/GitHub version control, MVC patterns, and RESTful APIs**.
 
 I am continuously evolving, deepening my knowledge in **software architecture, full-stack development, and scalable product design**.
 
@@ -76,6 +77,7 @@ I am continuously evolving, deepening my knowledge in **software architecture, f
 
 <p align="center">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -99,7 +101,7 @@ Desenvolvedora de software com foco em **aplicações web e mobile**, atuando na
 
 Possuo experiência prática no desenvolvimento de **projetos reais**, como sistemas de **controle de estoque, precificação, gestão de receitas e agendamentos**, estruturados com arquitetura organizada, persistência de dados e interface pronta para uso.
 
-Tenho domínio em **Java, Spring Boot, JavaScript/TypeScript, React, Node.js, PHP, HTML e CSS**, além de bancos relacionais como **MySQL e SQLite**, aplicando **boas práticas de arquitetura, versionamento com Git/GitHub, padrão MVC e APIs REST**.
+Tenho domínio em **Java, Kotlin, Spring Boot, JavaScript/TypeScript, React, Node.js, PHP, HTML e CSS**, além de bancos relacionais como **MySQL e SQLite**, aplicando **boas práticas de arquitetura, versionamento com Git/GitHub, padrão MVC e APIs REST**.
 
 Sigo em evolução contínua, aprofundando conhecimentos em **arquitetura de software, desenvolvimento fullstack e construção de produtos escaláveis**.
 
@@ -108,4 +110,3 @@ Sigo em evolução contínua, aprofundando conhecimentos em **arquitetura de sof
 <p align="center">
 ✨ Construindo soluções reais com código, propósito e evolução contínua.
 </p>
-
